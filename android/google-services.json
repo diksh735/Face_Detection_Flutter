@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "235391374352",
+    "project_id": "phizzo",
+    "storage_bucket": "phizzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235391374352:android:370d0ac933af1a508ba695",
+        "android_client_info": {
+          "package_name": "com.example.phizzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235391374352-habba60kkosfo0mhoh4jjo6g7jdi7iha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrQ_SZVpVEDjS8Moehqj8mDcNsw3LJofg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235391374352-habba60kkosfo0mhoh4jjo6g7jdi7iha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235391374352-mpudpgd0psgq6cl6f8922f9nckqeaf4f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phizzo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
